@@ -1,4 +1,5 @@
-![chrome-capture-2023-2-29](https://user-images.githubusercontent.com/113663079/228550616-a2519d96-5f96-4015-828f-d8e7c211dc7a.gif)
+![chrome-capture-2023-2-29 (2)](https://user-images.githubusercontent.com/113663079/228552010-c3f64eb1-703a-45c4-b583-26f73b33828f.gif)
+
 
 
 # Getting Started with Create React App
